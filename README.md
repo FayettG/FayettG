@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @FayettG
-- 👀 I’m interested in Computational Chemistry
-- 🌱 I’m currently learning CP2K and CRYSTAL17
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Fei Gao
+- 👀 I’m interested in Computational Chemistry and Electrochemistry
+- 🌱 I’m currently learning CP2K and CRYSTAL17 (maybe QE in the near future)
 - 📫 How to reach me fayettg0@gmail.com
 
 <!---
