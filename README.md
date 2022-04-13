@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fei Gao
+- 👋 Hi, I’m Faye
 - 👀 I’m interested in Computational Chemistry and Electrochemistry
 - 🌱 I’m currently learning CP2K and CRYSTAL17 (maybe QE in the near future)
 - 📫 How to reach me fayettg0@gmail.com
